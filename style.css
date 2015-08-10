@@ -42,7 +42,7 @@ body {
   height: 100vh;
   background-color: #12102C;
   text-align: center;
-  padding: 130px;
+  padding: 130px 0;
 }
 
 .nav {
